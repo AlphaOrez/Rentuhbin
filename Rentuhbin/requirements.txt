@@ -1,0 +1,24 @@
+fastapi==0.104.1
+# numpy==1.26.2
+numpy==1.26.3
+uvicorn==0.24.0.post1
+Pillow==10.1.0
+requests==2.31.0
+black==23.11.0
+pylint==3.0.2
+python-semantic-release==8.3.0
+commitizen==3.12.0
+python-multipart==0.0.6
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-dotenv==1.0.0
+mypy==1.7.1
+mypy-extensions==1.0.0
+# opencv-python==4.9.0.80
+opencv-python-headless==4.8.1.78
+uvicorn==0.24.0.post1
+supervision==0.17.1
+segment_anything==1.0
+matplotlib==3.8.2
+torch==2.1.2
+torchvision==0.16.2
